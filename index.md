@@ -4,7 +4,7 @@
 Инженер по машинному обучению и бэкенд-разработчик с опытом коммерческой разработки. Специализируюсь на полном цикле создания AI-продуктов: от исследования данных и обучения моделей (классический ML, Deep Learning, CV, NLP, квантовые нейросети) до проектирования высоконагруженных сервисов на Python (FastAPI) и интеграции в продакшен. Многократный победитель и призер всероссийских и отраслевых хакатонов.
 
 * **Локация:** Сириус (готов к удаленной работе)
-* **GitHub:** [@MichaelNoskov](https://github.com)
+* **GitHub:** [git MichaelNoskov](https://github.com/MichaelNoskov)
 * **Telegram:** [@MichaelNoskov](https://t.me)
 * **Email:** [Michael.Noskov@yandex.ru](mailto:Michael.Noskov@yandex.ru)
 
